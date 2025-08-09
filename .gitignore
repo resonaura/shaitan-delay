@@ -25,3 +25,5 @@ yarn-debug.log*
 yarn-error.log*
 
 publish.config.json
+cert.pem
+key.pem
