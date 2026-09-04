@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Plug-in screenshot" src="https://github.com/WeRtOG/ShaitanDelay/blob/main/.github/PluginScreenshot.png?raw=true" width="500" />
+
 
 # Shaitan DELAY (VST3 Win/Mac)
 
@@ -10,6 +10,11 @@
 
 Delay plugin capable of creating magic ✨🐾\
 The latest builds of our plugin you can download **from our Telegram channel**: [@shaitandelay](https://shaitandelay.t.me/)
+
+
+<p align="center">
+  <img src="media/shaitan-delay.png" width="800" alt="Shaitan Delay Stereo Tape Saturation Plugin" />
+</p>
 
 <br/>
 <br/>
